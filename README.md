@@ -1,7 +1,7 @@
 # Sablier Legacy Docs
 
-> [!NOTE]
-> This repo has been superseded by [sablier-labs/docs](https://github.com/sablier-labs/docs). You can see the latest version of the Sablier documentation at [docs.sablier.com](https://docs.sablier.finance).
+> [!NOTE] This repo has been archived in favor of [sablier-labs/docs](https://github.com/sablier-labs/docs). You can see
+> the latest version of the Sablier documentation at [docs.sablier.com](https://docs.sablier.finance).
 
 Contributing to the Sablier docs is a great way to get involved in the dev community and help other people along the
 way.
